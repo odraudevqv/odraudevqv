@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0052D4&height=150&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+Cybersecurity;Building+my+skills+one+day+at+a+time" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=500&lines=Computer+Science+Student" alt="Texto animado" />
 
 🎓 Computer Science Student at UFV
 
