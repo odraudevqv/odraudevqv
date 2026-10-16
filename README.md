@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**odraudevqv/odraudevqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF4F9A&height=150&section=header" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+Cybersecurity;Building+my+skills+one+day+at+a+time" alt="Texto animado" />
+
+🎓 Computer Science Student at UFV
+
+🔐 Interested in Cybersecurity
+
+💻 Learning, coding and building projects
+
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,mysql,git,github,vscode" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=odraudevqv&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odraudevqv&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF4F9A&height=100&section=footer" width="100%" />
+
+</div>
