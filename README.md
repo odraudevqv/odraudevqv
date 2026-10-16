@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF4F9A&height=150&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0052D4&height=150&section=header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+Cybersecurity;Building+my+skills+one+day+at+a+time" alt="Texto animado" />
 
@@ -27,14 +27,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=odraudevqv&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=odraudevqv&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odraudevqv&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odraudevqv&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF4F9A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0052D4&height=150&section=header" width="100%" />
 
 </div>
